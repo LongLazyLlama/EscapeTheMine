@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Soundeffects &amp; music/412168__screamstudio__arcade-game-over.wav</SourceFile>
+  <SourceTime>2019-12-24T20:57:43.0764587+01:00</SourceTime>
+  <DestFile>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/bin/Windows/412168__screamstudio__arcade-game-over.xnb</DestFile>
+  <DestTime>2019-12-24T21:21:08.7651497+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

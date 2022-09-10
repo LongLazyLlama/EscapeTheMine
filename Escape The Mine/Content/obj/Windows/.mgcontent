@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_Background.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_Controls_Button_dark.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_Controls_Button_LightBlue.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_Controls_Screen.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_CrossButton_dark.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_CrossButton_LightBlue.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_First_Midground.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_ForeGround.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_GameOver_Screen.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_Ground.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_HighScore_Screen.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_HighScoresButton_dark.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_HighScoresButton_LightBlue.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_Menu_Button_dark.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_Menu_Button_LightBlue.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_Numbers.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_PressStart.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_Retry_Button_dark.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_Retry_Button_LightBlue.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_Score+HP.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_Second_Midground.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_Spider_Obstacle.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_SpriteSheet.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_StartScreen.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Art &amp; design/Png/ETM_Wall_Obstacle.png</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Soundeffects &amp; music/196979__peepholecircus__sci-fi-button-beep.wav</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Soundeffects &amp; music/264444__kickhat__button-sound-closed-3.wav</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Soundeffects &amp; music/342232__christopherderp__cheesy-death-noise-male.wav</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Soundeffects &amp; music/368744__mattix__button-switch-off.wav</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Soundeffects &amp; music/412168__screamstudio__arcade-game-over.wav</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Soundeffects &amp; music/431019__camomano__stone-hit.mp3</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/../Soundeffects &amp; music/72146__knarmahfox__through-the-caves.mp3</File>
+    <File>D:/_DAE/PD1/week07/1DAE22_PD1Game_week12_Maes_Valere/Escape The Mine/Content/Arial.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>ETM_Background.png</File>
+    <File>ETM_Controls_Button_dark.png</File>
+    <File>ETM_Controls_Button_LightBlue.png</File>
+    <File>ETM_Controls_Screen.png</File>
+    <File>ETM_CrossButton_dark.png</File>
+    <File>ETM_CrossButton_LightBlue.png</File>
+    <File>ETM_First_Midground.png</File>
+    <File>ETM_ForeGround.png</File>
+    <File>ETM_GameOver_Screen.png</File>
+    <File>ETM_Ground.png</File>
+    <File>ETM_HighScore_Screen.png</File>
+    <File>ETM_HighScoresButton_dark.png</File>
+    <File>ETM_HighScoresButton_LightBlue.png</File>
+    <File>ETM_Menu_Button_dark.png</File>
+    <File>ETM_Menu_Button_LightBlue.png</File>
+    <File>ETM_Numbers.png</File>
+    <File>ETM_PressStart.png</File>
+    <File>ETM_Retry_Button_dark.png</File>
+    <File>ETM_Retry_Button_LightBlue.png</File>
+    <File>ETM_Score+HP.png</File>
+    <File>ETM_Second_Midground.png</File>
+    <File>ETM_Spider_Obstacle.png</File>
+    <File>ETM_SpriteSheet.png</File>
+    <File>ETM_StartScreen.png</File>
+    <File>ETM_Wall_Obstacle.png</File>
+    <File>196979__peepholecircus__sci-fi-button-beep.wav</File>
+    <File>264444__kickhat__button-sound-closed-3.wav</File>
+    <File>342232__christopherderp__cheesy-death-noise-male.wav</File>
+    <File>368744__mattix__button-switch-off.wav</File>
+    <File>412168__screamstudio__arcade-game-over.wav</File>
+    <File>431019__camomano__stone-hit.mp3</File>
+    <File>72146__knarmahfox__through-the-caves.mp3</File>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,312 @@
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Background.xnb
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_First_Midground.xnb
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Ground.xnb
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Second_Midground.xnb
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\Escape The Mine.exe
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\Escape The Mine.pdb
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\SharpDX.dll
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\SharpDX.xml
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\_DAE\PD1\week07\Escape The Mine\obj\x86\Debug\Escape The Mine.csprojAssemblyReference.cache
+D:\_DAE\PD1\week07\Escape The Mine\obj\x86\Debug\Escape The Mine.csproj.CopyComplete
+D:\_DAE\PD1\week07\Escape The Mine\obj\x86\Debug\Escape The Mine.exe
+D:\_DAE\PD1\week07\Escape The Mine\obj\x86\Debug\Escape The Mine.pdb
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\GeoSketch.dll
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\System.ValueTuple.dll
+D:\_DAE\PD1\week07\Escape The Mine\bin\Windows\x86\Debug\System.ValueTuple.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Background.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_First_Midground.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Ground.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Second_Midground.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Escape The Mine.exe
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Escape The Mine.pdb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\GeoSketch.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\System.ValueTuple.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\System.ValueTuple.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\obj\x86\Debug\Escape The Mine.csprojAssemblyReference.cache
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\obj\x86\Debug\Escape The Mine.csproj.CopyComplete
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\obj\x86\Debug\Escape The Mine.exe
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\obj\x86\Debug\Escape The Mine.pdb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week10_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_ForeGround.xnb
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Background.xnb
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_First_Midground.xnb
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_ForeGround.xnb
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Ground.xnb
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Second_Midground.xnb
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\Escape The Mine.exe
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\Escape The Mine.pdb
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\GeoSketch.dll
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\System.ValueTuple.dll
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\SharpDX.dll
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\System.ValueTuple.xml
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\SharpDX.xml
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\obj\x86\Debug\Escape The Mine.csprojAssemblyReference.cache
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\obj\x86\Debug\Escape The Mine.csproj.CopyComplete
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\obj\x86\Debug\Escape The Mine.exe
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\obj\x86\Debug\Escape The Mine.pdb
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_SpriteSheet.xnb
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Spider_Obstacle.xnb
+D:\_DAE\PD1\week07\1DAE22_Maes_Valere_GameProject\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Wall_Obstacle.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Background.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_First_Midground.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_ForeGround.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Ground.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Second_Midground.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Spider_Obstacle.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_SpriteSheet.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Wall_Obstacle.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Escape The Mine.exe
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Escape The Mine.pdb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\GeoSketch.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\System.ValueTuple.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\System.ValueTuple.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\obj\x86\Debug\Escape The Mine.csprojAssemblyReference.cache
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\obj\x86\Debug\Escape The Mine.csproj.CopyComplete
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\obj\x86\Debug\Escape The Mine.exe
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\obj\x86\Debug\Escape The Mine.pdb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_GameOver_Screen.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_StartScreen.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_PressStart.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Numbers.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Score+HP.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week11_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\Arial.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\Arial.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Background.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_First_Midground.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_ForeGround.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_GameOver_Screen.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Ground.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Numbers.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_PressStart.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Score+HP.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Second_Midground.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Spider_Obstacle.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_SpriteSheet.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_StartScreen.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Wall_Obstacle.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Escape The Mine.exe
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Escape The Mine.pdb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\GeoSketch.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\System.ValueTuple.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\System.ValueTuple.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\obj\x86\Debug\Escape The Mine.csprojAssemblyReference.cache
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\obj\x86\Debug\Escape The Mine.csproj.CopyComplete
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\obj\x86\Debug\Escape The Mine.exe
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\obj\x86\Debug\Escape The Mine.pdb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Controls_Button_dark.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Controls_Button_LightBlue.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_HighScoresButton_dark.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_HighScoresButton_LightBlue.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Controls_Screen.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_CrossButton_dark.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_CrossButton_LightBlue.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_HighScore_Screen.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Menu_Button_dark.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Menu_Button_LightBlue.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Retry_Button_dark.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\ETM_Retry_Button_LightBlue.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\196979__peepholecircus__sci-fi-button-beep.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\264444__kickhat__button-sound-closed-3.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\342232__christopherderp__cheesy-death-noise-male.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\368744__mattix__button-switch-off.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\412168__screamstudio__arcade-game-over.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\431019__camomano__stone-hit.wma
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\431019__camomano__stone-hit.xnb
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\72146__knarmahfox__through-the-caves.wma
+D:\_DAE\PD1\week07\1DAE22_PD1Game_week12_Maes_Valere\Escape The Mine\bin\Windows\x86\Debug\Content\72146__knarmahfox__through-the-caves.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\196979__peepholecircus__sci-fi-button-beep.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\264444__kickhat__button-sound-closed-3.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\342232__christopherderp__cheesy-death-noise-male.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\368744__mattix__button-switch-off.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\412168__screamstudio__arcade-game-over.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\431019__camomano__stone-hit.wma
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\431019__camomano__stone-hit.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\72146__knarmahfox__through-the-caves.wma
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\72146__knarmahfox__through-the-caves.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\Arial.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Background.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Controls_Button_dark.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Controls_Button_LightBlue.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Controls_Screen.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_CrossButton_dark.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_CrossButton_LightBlue.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_First_Midground.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_ForeGround.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_GameOver_Screen.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Ground.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_HighScoresButton_dark.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_HighScoresButton_LightBlue.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_HighScore_Screen.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Menu_Button_dark.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Menu_Button_LightBlue.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Numbers.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_PressStart.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Retry_Button_dark.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Retry_Button_LightBlue.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Score+HP.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Second_Midground.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Spider_Obstacle.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_SpriteSheet.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_StartScreen.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Wall_Obstacle.xnb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Escape The Mine.exe
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Escape The Mine.pdb
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\GeoSketch.dll
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\System.ValueTuple.dll
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.dll
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\System.ValueTuple.xml
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.xml
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Backups\Escape The Mine Backup\obj\x86\Debug\Escape The Mine.csprojAssemblyReference.cache
+D:\Backups\Escape The Mine Backup\obj\x86\Debug\Escape The Mine.csproj.CopyComplete
+D:\Backups\Escape The Mine Backup\obj\x86\Debug\Escape The Mine.exe
+D:\Backups\Escape The Mine Backup\obj\x86\Debug\Escape The Mine.pdb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\196979__peepholecircus__sci-fi-button-beep.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\264444__kickhat__button-sound-closed-3.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\342232__christopherderp__cheesy-death-noise-male.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\368744__mattix__button-switch-off.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\412168__screamstudio__arcade-game-over.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\431019__camomano__stone-hit.wma
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\431019__camomano__stone-hit.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\72146__knarmahfox__through-the-caves.wma
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\72146__knarmahfox__through-the-caves.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\Arial.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Background.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Controls_Button_dark.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Controls_Button_LightBlue.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Controls_Screen.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_CrossButton_dark.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_CrossButton_LightBlue.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_First_Midground.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_ForeGround.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_GameOver_Screen.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Ground.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_HighScoresButton_dark.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_HighScoresButton_LightBlue.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_HighScore_Screen.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Menu_Button_dark.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Menu_Button_LightBlue.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Numbers.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_PressStart.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Retry_Button_dark.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Retry_Button_LightBlue.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Score+HP.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Second_Midground.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Spider_Obstacle.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_SpriteSheet.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_StartScreen.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Content\ETM_Wall_Obstacle.xnb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Escape The Mine.exe
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\Escape The Mine.pdb
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\GeoSketch.dll
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\System.ValueTuple.dll
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.dll
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\System.ValueTuple.xml
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.xml
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Important files\Backups\Escape The Mine Backup\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Important files\Backups\Escape The Mine Backup\obj\x86\Debug\Escape The Mine.csproj.CopyComplete
+D:\Important files\Backups\Escape The Mine Backup\obj\x86\Debug\Escape The Mine.exe
+D:\Important files\Backups\Escape The Mine Backup\obj\x86\Debug\Escape The Mine.pdb
+D:\Important files\Backups\Escape The Mine Backup\obj\x86\Debug\Escape The Mine.csproj.CoreCompileInputs.cache
+D:\Important files\Backups\Escape The Mine Backup\obj\x86\Debug\Escape The Mine.csproj.AssemblyReference.cache
